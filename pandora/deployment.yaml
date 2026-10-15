@@ -60,7 +60,7 @@ spec:
 
             # ---- THE ONE LINE YOU EDIT --------------------------------------
             - "--team"
-            - "REPLACE_WITH_ROSTER_NAME"
+            - "Achilles"
             # -----------------------------------------------------------------
 
             # The ingress controller's in-cluster address, asking for the host
